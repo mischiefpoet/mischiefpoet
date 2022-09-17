@@ -1,6 +1,6 @@
 - :pinched_fingers: Hi, I’m @mischiefpoet
 - 👀 I’m interested in productivity apps, neuroscience and the psychology of sleep :zzz: 
-- 🌱 I’m currently learning: R, Markdown and Latex, How to Use Obsidian and Scrintal for university and research
+- 🌱 I’m currently learning: R and Markdown, How to Use Obsidian and Notion for university and research
 - 💞️ I’m looking to collaborate on photography shoots in UCDavis
 - 📫 How to reach me :arrow_down:  
 :envelope: paulasullivan0919@gmail.com
